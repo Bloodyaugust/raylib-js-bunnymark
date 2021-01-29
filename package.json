@@ -1,0 +1,25 @@
+{
+  "name": "raylib-js-bunnymark",
+  "version": "1.0.0",
+  "description": "Simple test of performance for the raylib npm module",
+  "main": "index.js",
+  "dependencies": {
+    "raylib": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyaugust/raylib-js-bunnymark.git"
+  },
+  "keywords": [
+    "bunnymark",
+    "raylib",
+    "node"
+  ],
+  "author": "Greyson Richey",
+  "license": "MIT"
+}
